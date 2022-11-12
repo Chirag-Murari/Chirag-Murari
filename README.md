@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chirag-Murari
 - 👀 I’m interested in Hacking, Cyber Security and Developments.
-- 🌱 I’m currently learning HAcking.
+- 🌱 I’m currently learning Hacking.
 - 💞️ I’m looking to collaborate on Projects and works.
 - 📫 How to reach me at gmail: chiragmurari143@gmailcom , Twitter : @MurariChirag , 
 
